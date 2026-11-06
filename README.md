@@ -14,15 +14,13 @@ I completed a **Master of IT (Data Science)** at Whitecliffe College, Auckland, 
 - Machine Learning & Deep Learning
 - Data Visualisation & Business Intelligence
 
-## Technical Skills
 
-**Programming & Analysis:** Python, SQL, pandas, NumPy
+## 🛠️ Technical Skills
 
-**Business Intelligence:** Power BI, Tableau, Excel
-
-**Machine Learning:** scikit-learn, PyTorch, LSTM, Predictive Modelling
-
-**Research & Explainability:** Statistical Evaluation, Feature Engineering, SHAP
+- **Programming & Data Analysis:** Python, SQL, pandas, NumPy
+- **Business Intelligence:** Power BI, Tableau, Excel
+- **Machine Learning:** scikit-learn, PyTorch, LSTM, Predictive Modelling
+- **Research & Explainability:** Quantitative Analysis, Statistical Evaluation, Feature Engineering, SHAP
 
 ## Featured Research
 
@@ -35,7 +33,7 @@ Using the Instacart dataset, I developed and evaluated a hybrid deep learning fr
 **Key research findings:**
 - Dual-Timescale model ROC-AUC: **0.8750**
 - Gradient Boosting baseline ROC-AUC: **0.8413**
-- Used grouped cross-validation and statistical testing to evaluate model performance
+- Evaluated predictive performance using ROC-AUC, F1-score, and precision.
 - Applied SHAP to interpret behavioural features in the Gradient Boosting baseline
 
 **[Explore the research repository](https://github.com/MehwishIqraTaha/Dual-Timescale-Conversion-Prediction)**
